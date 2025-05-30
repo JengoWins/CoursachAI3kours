@@ -1,0 +1,5 @@
+Courses_Job_AI/AI_COURSACH/Dialogs/dialogues.txt filter=lfs diff=lfs merge=lfs -text
+Courses_Job_AI/AI_COURSACH/Dialogs/dataset.json filter=lfs diff=lfs merge=lfs -text
+Courses_Job_AI/AI_COURSACH/DataSets/dialog_data.json filter=lfs diff=lfs merge=lfs -text
+Courses_Job_AI/AI_COURSACH/DataSets/intents_dataset.json filter=lfs diff=lfs merge=lfs -text
+Courses_Job_AI/AI_COURSACH/DataSets/formatted_dialogues.txt filter=lfs diff=lfs merge=lfs -text
