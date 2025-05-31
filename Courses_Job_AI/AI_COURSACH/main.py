@@ -11,7 +11,7 @@ from pathlib import Path
 from pydub import AudioSegment
 from AI_COURSACH.SpeetceRecording.SpeechRecord import command, ParseZadanie
 from Setting_Intents import botDialog, stats, context
-bot = AsyncTeleBot('7908515516:AAGPJuZuu7ViRId3uVFt8eYGx_-iHD69U00')
+bot = AsyncTeleBot('Типо ваш токен')
 
 
 def send_run():
